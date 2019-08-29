@@ -1,1 +1,1 @@
-# Wallet version : 0.12.3.5
+# Wallet version : 0.10
